@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudFormation",
+          "description": "You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T15:21:08Z",
+            "owner": "aws-cloudformation",
+            "repo": "aws-cloudformation-templates",
+            "stars": 5202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Troposphere + ECS",
+          "description": "For Python users Troposphere can help create CloudFormation templates. This example shows how to create an ECS deployment using Troposphere",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T14:02:56Z",
+            "owner": "cloudtools",
+            "repo": "troposphere",
+            "stars": 4945
+          }
+        }
+      ],
+      "title": "Pick a tool for deploying your application"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Secrets Management",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open source tool for automatically getting secrets from SSM into your docker environment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-03-13T15:17:01Z",
+                "owner": "signal-ai",
+                "repo": "signal-secret-service",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Administration",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Accessing Rails console inside of an ECS task",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2018-08-03T03:23:30Z",
+                "owner": "mnc",
+                "repo": "rails-console-ecs",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CI/CD",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS CodePipeline",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Shell",
+                "last_commit": "2022-11-22T06:03:59Z",
+                "owner": "awslabs",
+                "repo": "ecs-refarch-continuous-deployment",
+                "stars": 854
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CircleCI",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CI/CD mechanics:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Canary Deploy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2018-10-18T19:45:59Z",
+                "owner": "aws-samples",
+                "repo": "ecs-canary-blue-green-deployment",
+                "stars": 168
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open source:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sample task definitions",
+              "description": "Sample task definitions for running applications like Nginx, Tomcat, Gunicorn, Wildfly, Kibana, and Jetty as containers under Amazon ECS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-07-26T14:35:04Z",
+                "owner": "aws-samples",
+                "repo": "aws-containers-task-definitions",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecs-export",
+              "description": "A tool for exporting ECS cluster metrics to Prometheus for advanced querying",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2023-11-03T09:51:40Z",
+                "owner": "slok",
+                "repo": "ecs-exporter",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-elk-ecs",
+              "description": "Connecting Amazon ECS container logs to an ELK (Elasticsearch, Logstash, Kibana) stack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2016-05-25T00:51:53Z",
+                "owner": "markriggins",
+                "repo": "docker-elk-ecs",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Watchbot",
+              "description": "This tool by Mapbox helps you run data processing across an ECS cluster in response to external events",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mythical Misfits",
+          "description": "Deploy a sample application to serverless AWS Fargate capacity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-12T04:42:29Z",
+            "owner": "aws-samples",
+            "repo": "amazon-ecs-mythicalmysfits-workshop",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cats n' Dogs",
+          "description": "A fun workshop that covers service and container-instance auto-scaling, spot-fleet integration, container placement strategies, service discovery, secrets management with AWS Systems Manager Parameter Store, among other things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-10-18T10:43:20Z",
+            "owner": "aws-samples",
+            "repo": "amazon-ecs-catsndogs-workshop",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Reference Architectures"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:55.489Z",
+    "original_repository": "nathanpeck/awesome-ecs",
+    "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
+    "enhanced_repository": "enhansome/enhansome-ecs",
+    "enhanced_repository_description": null,
+    "title": "Awesome ECS with stars"
+  }
+}
