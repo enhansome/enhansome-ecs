@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T14:02:56Z",
+            "last_commit": "2026-08-14T14:05:49Z",
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
@@ -221,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:56:52.191Z",
+    "last_updated": "2026-08-14T21:34:49.482Z",
     "original_repository": "nathanpeck/awesome-ecs",
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
     "enhanced_repository": "enhansome/enhansome-ecs",
