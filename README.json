@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "The following tools may not be as up-to-date or maintained, but are retained here for reference:",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47648925,
             "language": "Python",
             "last_commit": "2026-07-28T15:21:08Z",
             "owner": "aws-cloudformation",
@@ -24,18 +25,342 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7137821,
             "language": "Python",
             "last_commit": "2026-08-14T14:05:49Z",
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
           }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-deploy",
+          "description": "Simple but powerful tool for initiating automatic blue green deploys on ECS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39917097,
+            "language": "Shell",
+            "last_commit": "2026-07-01T22:31:45Z",
+            "owner": "sil-org",
+            "repo": "ecs-deploy",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFormation reference architecture",
+          "description": "An older CloudFormation reference architecture for ECS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 67635521,
+            "language": "Makefile",
+            "last_commit": "2023-07-28T11:31:31Z",
+            "owner": "aws-samples",
+            "repo": "ecs-refarch-cloudformation",
+            "stars": 1697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecspresso",
+          "description": "Minimalistic: JSON file goes in, service launches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109662309,
+            "language": "Go",
+            "last_commit": "2026-08-17T01:40:36Z",
+            "owner": "kayac",
+            "repo": "ecspresso",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mu",
+          "description": "Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76410287,
+            "language": "Go",
+            "last_commit": "2020-06-18T14:09:29Z",
+            "owner": "stelligent",
+            "repo": "mu",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsdeploy",
+          "description": "A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111321279,
+            "language": "Go",
+            "last_commit": "2026-08-08T01:55:25Z",
+            "owner": "in4it",
+            "repo": "ecs-deploy",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsctl",
+          "description": "Open source tool similar to Kubernetes for ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92480175,
+            "language": "Python",
+            "last_commit": "2021-03-22T15:25:41Z",
+            "owner": "cxmcc",
+            "repo": "ecsctl",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fargate-create",
+          "description": "A CLI tool for creating new projects based on Terraform templates and Fargate CLI. Supported stacks:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web Application (ALB - HTTP/HTTPS)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133675810,
+                "language": "HCL",
+                "last_commit": "2026-05-06T16:41:45Z",
+                "owner": "turnerlabs",
+                "repo": "terraform-ecs-fargate",
+                "stars": 432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Application (NLB)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145893494,
+                "language": "HCL",
+                "last_commit": "2022-05-03T02:02:00Z",
+                "owner": "turnerlabs",
+                "repo": "terraform-ecs-fargate-nlb",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scheduled Task (Job)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 154550473,
+                "language": "HCL",
+                "last_commit": "2021-07-15T21:17:17Z",
+                "owner": "turnerlabs",
+                "repo": "terraform-ecs-fargate-scheduled-task",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Background Worker (Service)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 147396807,
+                "language": "HCL",
+                "last_commit": "2019-10-04T19:46:44Z",
+                "owner": "turnerlabs",
+                "repo": "terraform-ecs-fargate-background-worker",
+                "stars": 15
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 142599311,
+            "language": "Go",
+            "last_commit": "2026-08-07T20:50:52Z",
+            "owner": "turnerlabs",
+            "repo": "fargate-create",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deployfish",
+          "description": "Write a simplified file describing your deployment and let this tool handle the heavy lifting of deploying your service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98580356,
+            "language": "HTML",
+            "last_commit": "2026-08-09T09:33:11Z",
+            "owner": "caltechads",
+            "repo": "deployfish",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsq",
+          "description": "A developer friendly tool for querying the state of an ECS cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100211915,
+            "language": "Go",
+            "last_commit": "2023-03-10T19:36:04Z",
+            "owner": "mightyguava",
+            "repo": "ecsq",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "broadside",
+          "description": "Ruby based command line tool for deploying to ECS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61584844,
+            "language": "Ruby",
+            "last_commit": "2021-07-22T16:36:36Z",
+            "owner": "lumoslabs",
+            "repo": "broadside",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pnzr",
+          "description": "Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86665975,
+            "language": "Go",
+            "last_commit": "2018-09-18T08:50:34Z",
+            "owner": "jobtalk",
+            "repo": "pnzr",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deplojo",
+          "description": "Python based deployment tool using ECS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45192816,
+            "language": "Python",
+            "last_commit": "2026-04-28T12:03:28Z",
+            "owner": "labd",
+            "repo": "ecs-deplojo",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsrun",
+          "description": "Easily run one-off tasks against an ECS Task Definition using a config file based approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254919310,
+            "language": "Go",
+            "last_commit": "2026-04-08T16:02:32Z",
+            "owner": "masterpointio",
+            "repo": "ecsrun",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kms-env",
+          "description": "CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with ecs-service to supply secrets to your containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83520943,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T23:31:09Z",
+            "owner": "ukayani",
+            "repo": "kms-env",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shipctl",
+          "description": "Tool that supports deploying a task on ECS, rolling back, or just running a one-off task",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84940340,
+            "language": "Go",
+            "last_commit": "2018-11-30T04:45:33Z",
+            "owner": "skahack",
+            "repo": "shipctl",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecs-service",
+          "description": "CLI tool for deploying to ECS using CloudFormation with support for .env files for environment specific configuration of your containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84011442,
+            "language": "JavaScript",
+            "last_commit": "2017-10-12T03:42:13Z",
+            "owner": "ukayani",
+            "repo": "ecs-service",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "empire",
+              "description": "Control layer on top of ECS that provides a Heroku like workflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30091667,
+                "language": "Go",
+                "last_commit": "2023-11-25T17:16:08Z",
+                "owner": "remind101",
+                "repo": "empire",
+                "stars": 2675
+              }
+            }
+          ]
         }
       ],
       "title": "Pick a tool for deploying your application"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -49,6 +374,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 127156336,
                 "language": "Shell",
                 "last_commit": "2023-03-13T15:17:01Z",
                 "owner": "signal-ai",
@@ -70,6 +396,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 142236764,
                 "language": "Shell",
                 "last_commit": "2018-08-03T03:23:30Z",
                 "owner": "mnc",
@@ -91,18 +418,13 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 61420777,
                 "language": "Shell",
                 "last_commit": "2022-11-22T06:03:59Z",
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
                 "stars": 854
               }
-            },
-            {
-              "node_type": "item",
-              "title": "CircleCI",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -118,6 +440,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 99744268,
                 "language": "Python",
                 "last_commit": "2018-10-18T19:45:59Z",
                 "owner": "aws-samples",
@@ -139,6 +462,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 109063817,
                 "language": null,
                 "last_commit": "2021-07-26T14:35:04Z",
                 "owner": "aws-samples",
@@ -153,6 +477,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75209626,
                 "language": "Go",
                 "last_commit": "2023-11-03T09:51:40Z",
                 "owner": "slok",
@@ -167,18 +492,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59612839,
                 "language": "Shell",
                 "last_commit": "2016-05-25T00:51:53Z",
                 "owner": "markriggins",
                 "repo": "docker-elk-ecs",
                 "stars": 14
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Watchbot",
-              "description": "This tool by Mapbox helps you run data processing across an ECS cluster in response to external events",
-              "children": []
             }
           ]
         }
@@ -186,7 +506,7 @@
       "title": "Solutions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -195,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169288962,
             "language": "HTML",
             "last_commit": "2025-09-12T04:42:29Z",
             "owner": "aws-samples",
@@ -209,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123351689,
             "language": "Shell",
             "last_commit": "2020-10-18T10:43:20Z",
             "owner": "aws-samples",
@@ -221,8 +543,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:33:47.267Z",
+    "last_updated": "2026-08-19T12:29:02.181Z",
     "original_repository": "nathanpeck/awesome-ecs",
+    "original_repository_id": 94349408,
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
     "enhanced_repository": "enhansome/enhansome-ecs",
     "enhanced_repository_description": null,
