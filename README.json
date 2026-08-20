@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T15:21:08Z",
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5203
+            "stars": 5205
           }
         },
         {
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:35:07.443Z",
+    "last_updated": "2026-08-20T21:37:22.450Z",
     "original_repository": "nathanpeck/awesome-ecs",
     "original_repository_id": 94349408,
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
