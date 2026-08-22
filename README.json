@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T01:40:36Z",
             "owner": "kayac",
             "repo": "ecspresso",
-            "stars": 1116
+            "stars": 1117
           }
         },
         {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-05-06T16:41:45Z",
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -208,7 +208,7 @@
             "archived": false,
             "id": 98580356,
             "language": "HTML",
-            "last_commit": "2026-08-09T09:33:11Z",
+            "last_commit": "2026-08-21T21:56:05Z",
             "owner": "caltechads",
             "repo": "deployfish",
             "stars": 91
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:34:04.771Z",
+    "last_updated": "2026-08-22T21:31:11.493Z",
     "original_repository": "nathanpeck/awesome-ecs",
     "original_repository_id": 94349408,
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
