@@ -32,7 +32,7 @@ Do you prefer video instead? If so check out [Containers from the Couch](https:/
 
 ### Pick a tool for deploying your application
 
-* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,204 | 🐛 5 | 🌐 Python | 📅 2026-07-28 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
+* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,206 | 🐛 5 | 🌐 Python | 📅 2026-07-28 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
 * [Troposphere + ECS](https://github.com/cloudtools/troposphere/blob/master/examples/ECSFargate.py) ⭐ 4,945 | 🐛 163 | 🌐 Python | 📅 2026-08-19 - For Python users [Troposphere](https://github.com/cloudtools/troposphere) ⭐ 4,945 | 🐛 163 | 🌐 Python | 📅 2026-08-19 can help create CloudFormation templates. This example shows how to create an ECS deployment using Troposphere
 * [AWS Copilot](https://aws.github.io/copilot-cli/) - The easiest starting experience for launching your local container on Fargate. This commandline tool helps you build and deploy your application, as well as deploy CI/CD pipelines that automatically rebuild and redeploy your application on Git push. It creates infrastructure as code templates for you behind the scenes.
 * [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) - AWS CDK is an SDK that lets developers define and deploy AWS infrastructure using familiar programming languages, often the same language that the application itself is coded in. CDK creates CloudFormation automatically behind the scenes.
@@ -57,7 +57,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
   * [Network Application (NLB)](https://github.com/turnerlabs/terraform-ecs-fargate-nlb) ⚠️ Archived
   * [Scheduled Task (Job)](https://github.com/turnerlabs/terraform-ecs-fargate-scheduled-task) ⚠️ Archived
   * [Background Worker (Service)](https://github.com/turnerlabs/terraform-ecs-fargate-background-worker) ⚠️ Archived
-* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-08-21 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
+* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-08-24 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
 * [ecsq](https://github.com/mightyguava/ecsq) ⭐ 90 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
