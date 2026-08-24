@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "The following tools may not be as up-to-date or maintained, but are retained here for reference:",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -32,7 +32,13 @@
             "repo": "troposphere",
             "stars": 4945
           }
-        },
+        }
+      ],
+      "title": "Pick a tool for deploying your application"
+    },
+    {
+      "description": "The following tools may not be as up-to-date or maintained, but are retained here for reference:",
+      "items": [
         {
           "node_type": "item",
           "title": "ecs-deploy",
@@ -357,7 +363,7 @@
           ]
         }
       ],
-      "title": "Pick a tool for deploying your application"
+      "title": "Older tools"
     },
     {
       "description": null,
@@ -543,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:31:21.863Z",
+    "last_updated": "2026-08-24T14:02:53.409Z",
     "original_repository": "nathanpeck/awesome-ecs",
     "original_repository_id": 94349408,
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
