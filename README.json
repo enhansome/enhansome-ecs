@@ -214,7 +214,7 @@
             "archived": false,
             "id": 98580356,
             "language": "HTML",
-            "last_commit": "2026-08-25T00:21:10Z",
+            "last_commit": "2026-08-25T21:02:19Z",
             "owner": "caltechads",
             "repo": "deployfish",
             "stars": 91
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:58.187Z",
+    "last_updated": "2026-08-25T21:37:57.866Z",
     "original_repository": "nathanpeck/awesome-ecs",
     "original_repository_id": 94349408,
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
