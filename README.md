@@ -57,7 +57,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
   * [Network Application (NLB)](https://github.com/turnerlabs/terraform-ecs-fargate-nlb) ⚠️ Archived
   * [Scheduled Task (Job)](https://github.com/turnerlabs/terraform-ecs-fargate-scheduled-task) ⚠️ Archived
   * [Background Worker (Service)](https://github.com/turnerlabs/terraform-ecs-fargate-background-worker) ⚠️ Archived
-* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-08-24 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
+* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-08-25 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
 * [ecsq](https://github.com/mightyguava/ecsq) ⭐ 90 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
