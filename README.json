@@ -549,9 +549,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:39:48.095Z",
-    "original_repository": "nathanpeck/awesome-ecs",
-    "original_repository_id": 94349408,
+    "last_updated": "2026-08-27T11:37:00.634Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 94349408,
+      "language": null,
+      "last_commit": "2024-03-15T15:16:19Z",
+      "owner": "nathanpeck",
+      "repo": "awesome-ecs",
+      "stars": 2902
+    },
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
     "enhanced_repository": "enhansome/enhansome-ecs",
     "enhanced_repository_description": null,
