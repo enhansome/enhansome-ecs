@@ -16,7 +16,8 @@
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
             "stars": 5208
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cloudtools",
             "repo": "troposphere",
             "stars": 4945
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         }
       ],
       "title": "Pick a tool for deploying your application"
@@ -51,8 +53,9 @@
             "last_commit": "2026-07-01T22:31:45Z",
             "owner": "sil-org",
             "repo": "ecs-deploy",
-            "stars": 1986
-          }
+            "stars": 1985
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2023-07-28T11:31:31Z",
             "owner": "aws-samples",
             "repo": "ecs-refarch-cloudformation",
-            "stars": 1696
-          }
+            "stars": 1695
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "kayac",
             "repo": "ecspresso",
             "stars": 1117
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "stelligent",
             "repo": "mu",
             "stars": 965
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "in4it",
             "repo": "ecs-deploy",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "cxmcc",
             "repo": "ecsctl",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -147,7 +155,8 @@
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             },
             {
               "node_type": "item",
@@ -162,7 +171,8 @@
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-nlb",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             },
             {
               "node_type": "item",
@@ -177,7 +187,8 @@
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-scheduled-task",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             },
             {
               "node_type": "item",
@@ -192,7 +203,8 @@
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-background-worker",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ],
           "repo_info": {
@@ -203,7 +215,8 @@
             "owner": "turnerlabs",
             "repo": "fargate-create",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -218,7 +231,8 @@
             "owner": "caltechads",
             "repo": "deployfish",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -233,7 +247,8 @@
             "owner": "mightyguava",
             "repo": "ecsq",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -248,7 +263,8 @@
             "owner": "lumoslabs",
             "repo": "broadside",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -263,7 +279,8 @@
             "owner": "jobtalk",
             "repo": "pnzr",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -278,7 +295,8 @@
             "owner": "labd",
             "repo": "ecs-deplojo",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -293,7 +311,8 @@
             "owner": "masterpointio",
             "repo": "ecsrun",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -308,7 +327,8 @@
             "owner": "ukayani",
             "repo": "kms-env",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -323,7 +343,8 @@
             "owner": "skahack",
             "repo": "shipctl",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -338,7 +359,8 @@
             "owner": "ukayani",
             "repo": "ecs-service",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "group",
@@ -358,7 +380,8 @@
                 "owner": "remind101",
                 "repo": "empire",
                 "stars": 2675
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         }
@@ -386,7 +409,8 @@
                 "owner": "signal-ai",
                 "repo": "signal-secret-service",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         },
@@ -408,7 +432,8 @@
                 "owner": "mnc",
                 "repo": "rails-console-ecs",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         },
@@ -430,7 +455,8 @@
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
                 "stars": 854
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         },
@@ -452,7 +478,8 @@
                 "owner": "aws-samples",
                 "repo": "ecs-canary-blue-green-deployment",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         },
@@ -474,7 +501,8 @@
                 "owner": "aws-samples",
                 "repo": "aws-containers-task-definitions",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             },
             {
               "node_type": "item",
@@ -489,7 +517,8 @@
                 "owner": "slok",
                 "repo": "ecs-exporter",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             },
             {
               "node_type": "item",
@@ -504,7 +533,8 @@
                 "owner": "markriggins",
                 "repo": "docker-elk-ecs",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ]
         }
@@ -527,7 +557,8 @@
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         },
         {
           "node_type": "item",
@@ -542,14 +573,15 @@
             "owner": "aws-samples",
             "repo": "amazon-ecs-catsndogs-workshop",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
         }
       ],
       "title": "Reference Architectures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:00.634Z",
+    "last_updated": "2026-08-28T05:18:41.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 94349408,
