@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful CloudFormation templates ",
+            "homepage": null,
             "id": 47648925,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T15:21:08Z",
+            "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5209
+            "stars": 5209,
+            "topics": [
+              "aws-cloudformation",
+              "cloudformation-template"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -26,12 +34,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "troposphere - Python library to create AWS CloudFormation descriptions",
+            "homepage": null,
             "id": 7137821,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T13:34:39Z",
+            "open_issues": 163,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4945
+            "stars": 4945,
+            "topics": [
+              "aws-cloudformation",
+              "cloudformation",
+              "python",
+              "python3",
+              "troposphere"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         }
@@ -48,12 +67,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)",
+            "homepage": null,
             "id": 39917097,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-01T22:31:45Z",
+            "open_issues": 1,
             "owner": "sil-org",
             "repo": "ecs-deploy",
-            "stars": 1985
+            "stars": 1985,
+            "topics": [
+              "aws-ecs",
+              "continuous-deployment",
+              "ecs",
+              "ecs-deploy"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -64,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)",
+            "homepage": null,
             "id": 67635521,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-28T11:31:31Z",
+            "open_issues": 27,
             "owner": "aws-samples",
             "repo": "ecs-refarch-cloudformation",
-            "stars": 1696
+            "stars": 1696,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -80,12 +114,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ecspresso is a deployment tool for Amazon ECS",
+            "homepage": null,
             "id": 109662309,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:40:36Z",
+            "open_issues": 23,
             "owner": "kayac",
             "repo": "ecspresso",
-            "stars": 1117
+            "stars": 1117,
+            "topics": [
+              "aws",
+              "deployment",
+              "docker",
+              "ecs",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -96,12 +141,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack DevOps on AWS framework",
+            "homepage": "https://getmu.io",
             "id": 76410287,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-06-18T14:09:29Z",
+            "open_issues": 89,
             "owner": "stelligent",
             "repo": "mu",
-            "stars": 965
+            "stars": 965,
+            "topics": [
+              "cloudformation",
+              "codepipeline",
+              "continuous-delivery",
+              "docker",
+              "ecs",
+              "golang",
+              "microservice",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -112,12 +171,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ecs-deploy is a continuous deployment platform for AWS ECS. It automates deploys based a simple json/yaml file which can be integrated in your CI/CD",
+            "homepage": null,
             "id": 111321279,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T01:55:25Z",
+            "open_issues": 7,
             "owner": "in4it",
             "repo": "ecs-deploy",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "aws",
+              "continuous-delivery",
+              "ecs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -128,12 +196,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-style command line tool for AWS EC2 Container Service (ECS)",
+            "homepage": null,
             "id": 92480175,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-22T15:25:41Z",
+            "open_issues": 2,
             "owner": "cxmcc",
             "repo": "ecsctl",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "aws",
+              "boto3",
+              "command-line-tool",
+              "ecs",
+              "kubectl",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -149,12 +229,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Terraform template used for provisioning web application stacks on AWS ECS Fargate",
+                "homepage": null,
                 "id": 133675810,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-06T16:41:45Z",
+                "open_issues": 5,
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "alb",
+                  "aws",
+                  "containers",
+                  "ecs",
+                  "fargate",
+                  "template",
+                  "terraform",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             },
@@ -165,12 +259,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Terraform template used for provisioning network application stacks on AWS ECS Fargate",
+                "homepage": null,
                 "id": 145893494,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-03T02:02:00Z",
+                "open_issues": 4,
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-nlb",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "aws",
+                  "containers",
+                  "ecs",
+                  "fargate",
+                  "nlb",
+                  "template",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             },
@@ -181,12 +288,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Terraform template used for provisioning scheduled tasks on AWS ECS Fargate",
+                "homepage": null,
                 "id": 154550473,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-15T21:17:17Z",
+                "open_issues": 1,
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-scheduled-task",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "aws",
+                  "containers",
+                  "cron",
+                  "ecs",
+                  "fargate",
+                  "schedule",
+                  "task",
+                  "template",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             },
@@ -197,24 +319,51 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of Terraform templates used for provisioning a background worker stack on AWS ECS Fargate.",
+                "homepage": null,
                 "id": 147396807,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-04T19:46:44Z",
+                "open_issues": 0,
                 "owner": "turnerlabs",
                 "repo": "terraform-ecs-fargate-background-worker",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "aws",
+                  "background",
+                  "containers",
+                  "ecs",
+                  "fargate",
+                  "service",
+                  "template",
+                  "terraform",
+                  "worker"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for scaffolding out new AWS ECS/Fargate applications based on Terraform templates and Fargate CLI",
+            "homepage": null,
             "id": 142599311,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-07T20:50:52Z",
+            "open_issues": 4,
             "owner": "turnerlabs",
             "repo": "fargate-create",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "aws",
+              "cli",
+              "containers",
+              "fargate",
+              "terraform",
+              "tooling"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -225,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your whole application lifecycle in Amazon AWS ECS.",
+            "homepage": "http://deployfish.readthedocs.io",
             "id": 98580356,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:02:19Z",
+            "open_issues": 3,
             "owner": "caltechads",
             "repo": "deployfish",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -241,12 +395,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A friendly command-line tool to query ECS",
+            "homepage": null,
             "id": 100211915,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-10T19:36:04Z",
+            "open_issues": 2,
             "owner": "mightyguava",
             "repo": "ecsq",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "aws",
+              "aws-cli",
+              "aws-ecs",
+              "cli",
+              "cluster",
+              "ecs",
+              "query-ecs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -257,12 +424,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line tool for AWS ECS deploys",
+            "homepage": null,
             "id": 61584844,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-07-22T16:36:36Z",
+            "open_issues": 5,
             "owner": "lumoslabs",
             "repo": "broadside",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "cluster",
+              "ecs",
+              "ecs-cluster",
+              "ecs-deploy",
+              "ecs-service",
+              "scale"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -273,12 +452,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pnzr is docker deploy tool for ecs.",
+            "homepage": "https://github.com/jobtalk/pnzr/wiki",
             "id": 86665975,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2018-09-18T08:50:34Z",
+            "open_issues": 4,
             "owner": "jobtalk",
             "repo": "pnzr",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "aws",
+              "deploy-ecs",
+              "docker",
+              "ec2",
+              "ecs",
+              "golang",
+              "mfa"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -289,12 +481,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deployment tool for Amazon ECS",
+            "homepage": null,
             "id": 45192816,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-28T12:03:28Z",
+            "open_issues": 5,
             "owner": "labd",
             "repo": "ecs-deplojo",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "ecs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -305,12 +506,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily run one-off tasks against an ECS Task Definition",
+            "homepage": null,
             "id": 254919310,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-08T16:02:32Z",
+            "open_issues": 0,
             "owner": "masterpointio",
             "repo": "ecsrun",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "aws",
+              "aws-sdk-go",
+              "cli",
+              "ecs",
+              "ecs-task",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -321,12 +534,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to encrypt and decrypt environment variables using KMS",
+            "homepage": null,
             "id": 83520943,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-18T23:31:09Z",
+            "open_issues": 2,
             "owner": "ukayani",
             "repo": "kms-env",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "aws",
+              "decryption",
+              "docker",
+              "ecs",
+              "encryption",
+              "kms"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -337,12 +562,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cluster operation commands for AWS ECS, simillar to kubectl",
+            "homepage": null,
             "id": 84940340,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-11-30T04:45:33Z",
+            "open_issues": 1,
             "owner": "skahack",
             "repo": "shipctl",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "aws",
+              "docker",
+              "ecs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -353,12 +587,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for deploying services in AWS Elastic Container Service",
+            "homepage": null,
             "id": 84011442,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-12T03:42:13Z",
+            "open_issues": 6,
             "owner": "ukayani",
             "repo": "ecs-service",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "aws",
+              "ci-cd",
+              "cloudformation",
+              "containers",
+              "docker",
+              "ecs"
+            ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -374,12 +620,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PaaS built on top of Amazon EC2 Container Service (ECS)",
+                "homepage": null,
                 "id": 30091667,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-11-25T17:16:08Z",
+                "open_issues": 90,
                 "owner": "remind101",
                 "repo": "empire",
-                "stars": 2675
+                "stars": 2675,
+                "topics": [
+                  "aws",
+                  "docker",
+                  "ecs",
+                  "paas"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -403,12 +659,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wrapper for extracting secrets into ECS Docker containers from AWS SSM using chamber",
+                "homepage": null,
                 "id": 127156336,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-13T15:17:01Z",
+                "open_issues": 1,
                 "owner": "signal-ai",
                 "repo": "signal-secret-service",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "live-production-system"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -426,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple shell script for executing rails console in a ECS Task.",
+                "homepage": null,
                 "id": 142236764,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-08-03T03:23:30Z",
+                "open_issues": 5,
                 "owner": "mnc",
                 "repo": "rails-console-ecs",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -449,12 +717,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline",
+                "homepage": "https://aws.amazon.com/blogs/compute/continuous-deployment-to-amazon-ecs-using-aws-codepipeline-aws-codebuild-amazon-ecr-and-aws-cloudformation/",
                 "id": 61420777,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-22T06:03:59Z",
+                "open_issues": 13,
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
-                "stars": 854
+                "stars": 854,
+                "topics": [
+                  "aws",
+                  "continuous-deployment",
+                  "devops",
+                  "docker",
+                  "ec2",
+                  "ecs",
+                  "fargate"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -472,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Example code for demonstrating a canary \"blue-green\" deployment strategy for use with EC2 Container Service (ECS).",
+                "homepage": null,
                 "id": 99744268,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-18T19:45:59Z",
+                "open_issues": 2,
                 "owner": "aws-samples",
                 "repo": "ecs-canary-blue-green-deployment",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -495,12 +781,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task Definitions for running common applications Amazon ECS",
+                "homepage": "https://aws.amazon.com/ecs",
                 "id": 109063817,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-26T14:35:04Z",
+                "open_issues": 0,
                 "owner": "aws-samples",
                 "repo": "aws-containers-task-definitions",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "amazon",
+                  "container",
+                  "containers",
+                  "docker",
+                  "docker-container",
+                  "ec2-container-service",
+                  "ecs",
+                  "elasticcontainerservice",
+                  "task"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             },
@@ -511,12 +812,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export AWS ECS cluster metrics to Prometheus",
+                "homepage": null,
                 "id": 75209626,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-03T09:51:40Z",
+                "open_issues": 9,
                 "owner": "slok",
                 "repo": "ecs-exporter",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "amazon",
+                  "aws",
+                  "aws-ecs",
+                  "cluster",
+                  "ecs",
+                  "ecs-exporter",
+                  "exported-metrics",
+                  "metrics",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             },
@@ -527,12 +843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ELK stack powered by Docker and Compose.",
+                "homepage": null,
                 "id": 59612839,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2016-05-25T00:51:53Z",
+                "open_issues": 0,
                 "owner": "markriggins",
                 "repo": "docker-elk-ecs",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
             }
@@ -551,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tutorial for developers who want to learn about how to containerized applications on top of AWS using AWS Fargate. You will build a sample website that leverages infrastructure as code, containers, CI/CD, and more! If you're planning on running this, let us know @ aws-mythical-mysfits@amazon.com. At re:Invent 2018, these sessions were run as CON214/CON321/CON322. ",
+            "homepage": null,
             "id": 169288962,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-12T04:42:29Z",
+            "open_issues": 29,
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
-            "stars": 338
+            "stars": 338,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -567,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is self-paced workshop designed to allow developers and system administrators to get hands on with Amazon Elastic Container Service concepts such as service and container-instance auto-scaling, spot-fleet integration, container placement strategies, service discovery, secrets management with AWS Systems Manager Parameter Store, time-based and event-based scheduling, and automated deployment pipelines.",
+            "homepage": null,
             "id": 123351689,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-18T10:43:20Z",
+            "open_issues": 14,
             "owner": "aws-samples",
             "repo": "amazon-ecs-catsndogs-workshop",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         }
@@ -581,15 +912,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:28.374Z",
+    "last_updated": "2026-08-29T04:20:08.737Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ECS guides, development tools, and resources",
+      "homepage": null,
       "id": 94349408,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-15T15:16:19Z",
+      "open_issues": 7,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2902
+      "stars": 2902,
+      "topics": [
+        "aws",
+        "aws-ecs",
+        "aws-fargate",
+        "containers"
+      ]
     },
     "original_repository_sha": "efb1caf8704e2b719222747d5913dab93087b196",
     "enhanced_repository": "enhansome/enhansome-ecs",
