@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T15:21:08Z",
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5208
+            "stars": 5209
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -69,7 +69,7 @@
             "last_commit": "2023-07-28T11:31:31Z",
             "owner": "aws-samples",
             "repo": "ecs-refarch-cloudformation",
-            "stars": 1695
+            "stars": 1696
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
         },
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:18:41.486Z",
+    "last_updated": "2026-08-29T03:08:28.374Z",
     "original_repository_info": {
       "archived": false,
       "id": 94349408,
