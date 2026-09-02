@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5210,
+            "stars": 5211,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -43,7 +43,7 @@
             "open_issues": 163,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4945,
+            "stars": 4944,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -119,8 +119,8 @@
             "id": 109662309,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-17T01:40:36Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-02T07:44:45Z",
+            "open_issues": 24,
             "owner": "kayac",
             "repo": "ecspresso",
             "stars": 1118,
@@ -176,7 +176,7 @@
             "id": 111321279,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-08T01:55:25Z",
+            "last_commit": "2026-09-02T20:28:36Z",
             "open_issues": 7,
             "owner": "in4it",
             "repo": "ecs-deploy",
@@ -379,8 +379,8 @@
             "id": 98580356,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T21:02:19Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T22:56:38Z",
+            "open_issues": 4,
             "owner": "caltechads",
             "repo": "deployfish",
             "stars": 91,
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:15:14.796Z",
+    "last_updated": "2026-09-02T23:16:08.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
