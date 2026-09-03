@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5211,
+            "stars": 5212,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -102,7 +102,7 @@
             "open_issues": 27,
             "owner": "aws-samples",
             "repo": "ecs-refarch-cloudformation",
-            "stars": 1696,
+            "stars": 1695,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -176,8 +176,8 @@
             "id": 111321279,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T20:28:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-03T00:21:27Z",
+            "open_issues": 8,
             "owner": "in4it",
             "repo": "ecs-deploy",
             "stars": 259,
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:16:08.298Z",
+    "last_updated": "2026-09-03T23:13:44.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
