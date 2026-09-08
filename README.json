@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5210,
+            "stars": 5211,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -379,7 +379,7 @@
             "id": 98580356,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T22:56:38Z",
+            "last_commit": "2026-09-08T18:51:02Z",
             "open_issues": 4,
             "owner": "caltechads",
             "repo": "deployfish",
@@ -762,7 +762,7 @@
                 "open_issues": 2,
                 "owner": "aws-samples",
                 "repo": "ecs-canary-blue-green-deployment",
-                "stars": 168,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:26:49.724Z",
+    "last_updated": "2026-09-08T23:20:10.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
