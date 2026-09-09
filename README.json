@@ -102,7 +102,7 @@
             "open_issues": 27,
             "owner": "aws-samples",
             "repo": "ecs-refarch-cloudformation",
-            "stars": 1695,
+            "stars": 1694,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -119,8 +119,8 @@
             "id": 109662309,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T01:48:41Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-09T01:10:59Z",
+            "open_issues": 17,
             "owner": "kayac",
             "repo": "ecspresso",
             "stars": 1121,
@@ -176,8 +176,8 @@
             "id": 111321279,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T00:21:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-09T18:04:04Z",
+            "open_issues": 7,
             "owner": "in4it",
             "repo": "ecs-deploy",
             "stars": 259,
@@ -379,7 +379,7 @@
             "id": 98580356,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T18:51:02Z",
+            "last_commit": "2026-09-09T09:12:01Z",
             "open_issues": 4,
             "owner": "caltechads",
             "repo": "deployfish",
@@ -878,7 +878,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2025-09-12T04:42:29Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
             "stars": 338,
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:20:10.303Z",
+    "last_updated": "2026-09-09T23:09:24.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
