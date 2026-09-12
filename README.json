@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5214,
+            "stars": 5213,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -123,7 +123,7 @@
             "open_issues": 17,
             "owner": "kayac",
             "repo": "ecspresso",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "aws",
               "deployment",
@@ -726,7 +726,7 @@
                 "open_issues": 13,
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
-                "stars": 854,
+                "stars": 853,
                 "topics": [
                   "aws",
                   "continuous-deployment",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:11:24.957Z",
+    "last_updated": "2026-09-12T22:58:45.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
