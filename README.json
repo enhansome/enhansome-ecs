@@ -119,11 +119,11 @@
             "id": 109662309,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-13T03:46:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-14T01:22:46Z",
+            "open_issues": 17,
             "owner": "kayac",
             "repo": "ecspresso",
-            "stars": 1122,
+            "stars": 1124,
             "topics": [
               "aws",
               "deployment",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:05:18.869Z",
+    "last_updated": "2026-09-14T23:49:56.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
