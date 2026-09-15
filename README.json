@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5213,
+            "stars": 5214,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -379,7 +379,7 @@
             "id": 98580356,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T09:12:01Z",
+            "last_commit": "2026-09-15T21:05:03Z",
             "open_issues": 4,
             "owner": "caltechads",
             "repo": "deployfish",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:49:56.884Z",
+    "last_updated": "2026-09-15T23:30:21.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
