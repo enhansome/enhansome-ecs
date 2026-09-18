@@ -32,7 +32,7 @@ Do you prefer video instead? If so check out [Containers from the Couch](https:/
 
 ### Pick a tool for deploying your application
 
-* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,217 | 🐛 5 | 🌐 Python | 📅 2026-07-28 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
+* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,218 | 🐛 5 | 🌐 Python | 📅 2026-07-28 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
 * [Troposphere + ECS](https://github.com/cloudtools/troposphere/blob/master/examples/ECSFargate.py) ⭐ 4,944 | 🐛 163 | 🌐 Python | 📅 2026-09-17 - For Python users [Troposphere](https://github.com/cloudtools/troposphere) ⭐ 4,944 | 🐛 163 | 🌐 Python | 📅 2026-09-17 can help create CloudFormation templates. This example shows how to create an ECS deployment using Troposphere
 * [AWS Copilot](https://aws.github.io/copilot-cli/) - The easiest starting experience for launching your local container on Fargate. This commandline tool helps you build and deploy your application, as well as deploy CI/CD pipelines that automatically rebuild and redeploy your application on Git push. It creates infrastructure as code templates for you behind the scenes.
 * [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) - AWS CDK is an SDK that lets developers define and deploy AWS infrastructure using familiar programming languages, often the same language that the application itself is coded in. CDK creates CloudFormation automatically behind the scenes.
@@ -48,7 +48,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 * [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,984 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
 * [CloudFormation reference architecture](https://github.com/awslabs/ecs-refarch-cloudformation) ⚠️ Archived - An older CloudFormation reference architecture for ECS
-* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,125 | 🐛 17 | 🌐 Go | 📅 2026-09-14 - Minimalistic: JSON file goes in, service launches
+* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,125 | 🐛 18 | 🌐 Go | 📅 2026-09-18 - Minimalistic: JSON file goes in, service launches
 * [mu](https://github.com/stelligent/mu) ⭐ 965 | 🐛 89 | 🌐 Go | 📅 2020-06-18 - Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.
 * [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 7 | 🌐 Go | 📅 2026-09-09 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
@@ -62,8 +62,8 @@ The following tools may not be as up-to-date or maintained, but are retained her
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
 * [deplojo](https://github.com/LabD/ecs-deplojo) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2026-04-28 - Python based deployment tool using ECS
+* [kms-env](https://github.com/ukayani/kms-env) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-18 - CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with **ecs-service** to supply secrets to your containers
 * [ecsrun](https://github.com/masterpointio/ecsrun) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2026-04-08 - Easily run one-off tasks against an ECS Task Definition using a config file based approach.
-* [kms-env](https://github.com/ukayani/kms-env) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-18 - CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with **ecs-service** to supply secrets to your containers
 * [shipctl](https://github.com/SKAhack/shipctl) ⭐ 12 | 🐛 1 | 🌐 Go | 📅 2018-11-30 - Tool that supports deploying a task on ECS, rolling back, or just running a one-off task
 * [ecs-service](https://github.com/ukayani/ecs-service) ⭐ 12 | 🐛 6 | 🌐 JavaScript | 📅 2017-10-12 - CLI tool for deploying to ECS using CloudFormation with support for .env files for environment specific configuration of your containers
 * [ECS CLI v1](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_CLI.html) - The original CLI for ECS is designed to be mostly compatible
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

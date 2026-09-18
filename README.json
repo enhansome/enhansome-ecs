@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5217,
+            "stars": 5218,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -119,8 +119,8 @@
             "id": 109662309,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T01:22:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-18T16:38:17Z",
+            "open_issues": 18,
             "owner": "kayac",
             "repo": "ecspresso",
             "stars": 1125,
@@ -501,6 +501,34 @@
         },
         {
           "node_type": "item",
+          "title": "kms-env",
+          "description": "CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with ecs-service to supply secrets to your containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool to encrypt and decrypt environment variables using KMS",
+            "homepage": null,
+            "id": 83520943,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-04-18T23:31:09Z",
+            "open_issues": 2,
+            "owner": "ukayani",
+            "repo": "kms-env",
+            "stars": 18,
+            "topics": [
+              "aws",
+              "decryption",
+              "docker",
+              "ecs",
+              "encryption",
+              "kms"
+            ]
+          },
+          "first_seen": "2026-08-28T05:18:41.486Z"
+        },
+        {
+          "node_type": "item",
           "title": "ecsrun",
           "description": "Easily run one-off tasks against an ECS Task Definition using a config file based approach.",
           "children": [],
@@ -523,34 +551,6 @@
               "ecs",
               "ecs-task",
               "golang"
-            ]
-          },
-          "first_seen": "2026-08-28T05:18:41.486Z"
-        },
-        {
-          "node_type": "item",
-          "title": "kms-env",
-          "description": "CLI tool for managing secrets using AWS KMS in .env files which can be used in conjunction with ecs-service to supply secrets to your containers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool to encrypt and decrypt environment variables using KMS",
-            "homepage": null,
-            "id": 83520943,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-04-18T23:31:09Z",
-            "open_issues": 2,
-            "owner": "ukayani",
-            "repo": "kms-env",
-            "stars": 17,
-            "topics": [
-              "aws",
-              "decryption",
-              "docker",
-              "ecs",
-              "encryption",
-              "kms"
             ]
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:30:35.459Z",
+    "last_updated": "2026-09-18T23:13:39.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
