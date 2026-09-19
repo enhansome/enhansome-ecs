@@ -39,7 +39,7 @@
             "id": 7137821,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T21:16:51Z",
+            "last_commit": "2026-09-19T16:57:40Z",
             "open_issues": 163,
             "owner": "cloudtools",
             "repo": "troposphere",
@@ -119,7 +119,7 @@
             "id": 109662309,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T16:38:17Z",
+            "last_commit": "2026-09-19T06:59:15Z",
             "open_issues": 18,
             "owner": "kayac",
             "repo": "ecspresso",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:13:39.606Z",
+    "last_updated": "2026-09-19T22:54:51.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
