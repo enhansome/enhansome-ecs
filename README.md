@@ -46,9 +46,9 @@ Do you prefer video instead? If so check out [Containers from the Couch](https:/
 
 The following tools may not be as up-to-date or maintained, but are retained here for reference:
 
-* [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,984 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
+* [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,983 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
 * [CloudFormation reference architecture](https://github.com/awslabs/ecs-refarch-cloudformation) ⚠️ Archived - An older CloudFormation reference architecture for ECS
-* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,125 | 🐛 18 | 🌐 Go | 📅 2026-09-21 - Minimalistic: JSON file goes in, service launches
+* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,126 | 🐛 18 | 🌐 Go | 📅 2026-09-21 - Minimalistic: JSON file goes in, service launches
 * [mu](https://github.com/stelligent/mu) ⭐ 965 | 🐛 89 | 🌐 Go | 📅 2020-06-18 - Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.
 * [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 7 | 🌐 Go | 📅 2026-09-09 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
