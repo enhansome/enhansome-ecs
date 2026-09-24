@@ -76,7 +76,7 @@
             "open_issues": 1,
             "owner": "sil-org",
             "repo": "ecs-deploy",
-            "stars": 1983,
+            "stars": 1982,
             "topics": [
               "aws-ecs",
               "continuous-deployment",
@@ -120,10 +120,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-21T01:37:39Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "kayac",
             "repo": "ecspresso",
-            "stars": 1127,
+            "stars": 1128,
             "topics": [
               "aws",
               "deployment",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:36:40.660Z",
+    "last_updated": "2026-09-24T23:50:58.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
