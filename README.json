@@ -176,8 +176,8 @@
             "id": 111321279,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T21:56:48Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-29T17:01:57Z",
+            "open_issues": 1,
             "owner": "in4it",
             "repo": "ecs-deploy",
             "stars": 259,
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:56:50.779Z",
+    "last_updated": "2026-09-30T00:20:08.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",

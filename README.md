@@ -50,7 +50,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
 * [CloudFormation reference architecture](https://github.com/awslabs/ecs-refarch-cloudformation) ⚠️ Archived - An older CloudFormation reference architecture for ECS
 * [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,129 | 🐛 19 | 🌐 Go | 📅 2026-09-28 - Minimalistic: JSON file goes in, service launches
 * [mu](https://github.com/stelligent/mu) ⭐ 965 | 🐛 89 | 🌐 Go | 📅 2020-06-18 - Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.
-* [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 7 | 🌐 Go | 📅 2026-09-28 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
+* [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 1 | 🌐 Go | 📅 2026-09-29 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
 * [fargate-create](https://github.com/turnerlabs/fargate-create) ⭐ 106 | 🐛 4 | 🌐 Go | 📅 2026-08-07 - A CLI tool for creating new projects based on Terraform templates and [Fargate CLI](https://github.com/turnerlabs/fargate) ⭐ 150 | 🐛 10 | 🌐 Go | 📅 2026-07-27. Supported stacks:
   * [Web Application (ALB - HTTP/HTTPS)](https://github.com/turnerlabs/terraform-ecs-fargate) ⭐ 433 | 🐛 5 | 🌐 HCL | 📅 2026-05-06
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
