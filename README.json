@@ -15,8 +15,8 @@
             "id": 47648925,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-28T15:21:08Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T20:08:22Z",
+            "open_issues": 4,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
             "stars": 5219,
@@ -119,7 +119,7 @@
                 "open_issues": 21,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "aws",
                   "deployment",
@@ -172,8 +172,8 @@
                 "id": 111321279,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T06:45:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T12:39:14Z",
+                "open_issues": 6,
                 "owner": "in4it",
                 "repo": "ecs-deploy",
                 "stars": 259,
@@ -882,7 +882,7 @@
             "open_issues": 28,
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
-            "stars": 338,
+            "stars": 339,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:54.512Z",
+    "last_updated": "2026-10-03T23:44:16.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
