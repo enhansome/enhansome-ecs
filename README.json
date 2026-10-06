@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5220,
+            "stars": 5219,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -115,11 +115,11 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-04T01:36:05Z",
+                "last_commit": "2026-10-05T01:46:08Z",
                 "open_issues": 21,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": [
                   "aws",
                   "deployment",
@@ -234,7 +234,7 @@
                     "open_issues": 5,
                     "owner": "turnerlabs",
                     "repo": "terraform-ecs-fargate",
-                    "stars": 433,
+                    "stars": 432,
                     "topics": [
                       "alb",
                       "aws",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "turnerlabs",
                 "repo": "fargate-create",
-                "stars": 106,
+                "stars": 105,
                 "topics": [
                   "aws",
                   "cli",
@@ -375,8 +375,8 @@
                 "id": 98580356,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T21:05:03Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-06T00:56:43Z",
+                "open_issues": 5,
                 "owner": "caltechads",
                 "repo": "deployfish",
                 "stars": 91,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:55:29.537Z",
+    "last_updated": "2026-10-06T01:43:48.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
@@ -925,7 +925,7 @@
       "open_issues": 7,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2903,
+      "stars": 2902,
       "topics": [
         "aws",
         "aws-ecs",
