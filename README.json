@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T20:08:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -43,7 +43,7 @@
             "open_issues": 163,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4941,
+            "stars": 4942,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "aws-samples",
                 "repo": "ecs-refarch-cloudformation",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -625,7 +625,7 @@
                     "open_issues": 90,
                     "owner": "remind101",
                     "repo": "empire",
-                    "stars": 2676,
+                    "stars": 2677,
                     "topics": [
                       "aws",
                       "docker",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:39:21.182Z",
+    "last_updated": "2026-10-16T23:29:12.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
