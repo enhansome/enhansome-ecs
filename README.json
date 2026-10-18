@@ -39,11 +39,11 @@
             "id": 7137821,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T18:29:09Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-18T18:49:49Z",
+            "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4942,
+            "stars": 4941,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "aws-samples",
                 "repo": "ecs-refarch-cloudformation",
-                "stars": 1695,
+                "stars": 1694,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:02:00.896Z",
+    "last_updated": "2026-10-18T23:01:41.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
