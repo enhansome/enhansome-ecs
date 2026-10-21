@@ -53,11 +53,11 @@ The following tools may not be as up-to-date or maintained, but are retained her
 * [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 5 | 🌐 Go | 📅 2026-10-20 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
 * [fargate-create](https://github.com/turnerlabs/fargate-create) ⭐ 105 | 🐛 4 | 🌐 Go | 📅 2026-08-07 - A CLI tool for creating new projects based on Terraform templates and [Fargate CLI](https://github.com/turnerlabs/fargate) ⭐ 150 | 🐛 10 | 🌐 Go | 📅 2026-07-27. Supported stacks:
-  * [Web Application (ALB - HTTP/HTTPS)](https://github.com/turnerlabs/terraform-ecs-fargate) ⭐ 432 | 🐛 5 | 🌐 HCL | 📅 2026-05-06
+  * [Web Application (ALB - HTTP/HTTPS)](https://github.com/turnerlabs/terraform-ecs-fargate) ⭐ 431 | 🐛 5 | 🌐 HCL | 📅 2026-05-06
   * [Network Application (NLB)](https://github.com/turnerlabs/terraform-ecs-fargate-nlb) ⚠️ Archived
   * [Scheduled Task (Job)](https://github.com/turnerlabs/terraform-ecs-fargate-scheduled-task) ⚠️ Archived
   * [Background Worker (Service)](https://github.com/turnerlabs/terraform-ecs-fargate-background-worker) ⚠️ Archived
-* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 5 | 🌐 HTML | 📅 2026-10-07 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
+* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 5 | 🌐 HTML | 📅 2026-10-21 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
 * [ecsq](https://github.com/mightyguava/ecsq) ⭐ 90 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

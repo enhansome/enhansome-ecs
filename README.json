@@ -234,7 +234,7 @@
                     "open_issues": 5,
                     "owner": "turnerlabs",
                     "repo": "terraform-ecs-fargate",
-                    "stars": 432,
+                    "stars": 431,
                     "topics": [
                       "alb",
                       "aws",
@@ -375,7 +375,7 @@
                 "id": 98580356,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T11:24:49Z",
+                "last_commit": "2026-10-21T22:27:32Z",
                 "open_issues": 5,
                 "owner": "caltechads",
                 "repo": "deployfish",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:47:37.481Z",
+    "last_updated": "2026-10-21T23:58:24.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
