@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5223,
+            "stars": 5224,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -43,7 +43,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4941,
+            "stars": 4942,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1980,
+                "stars": 1979,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -115,8 +115,8 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-10T09:46:52Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-23T14:54:34Z",
+                "open_issues": 25,
                 "owner": "kayac",
                 "repo": "ecspresso",
                 "stars": 1135,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:57:06.969Z",
+    "last_updated": "2026-10-23T23:49:57.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
