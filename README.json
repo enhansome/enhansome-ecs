@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5225,
+            "stars": 5224,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:48:16.807Z",
+    "last_updated": "2026-10-30T00:49:36.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
@@ -925,7 +925,7 @@
       "open_issues": 6,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2901,
+      "stars": 2900,
       "topics": [
         "aws",
         "aws-ecs",
