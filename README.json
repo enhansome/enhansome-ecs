@@ -727,7 +727,7 @@
                 "open_issues": 13,
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
-                "stars": 852,
+                "stars": 851,
                 "topics": [
                   "aws",
                   "continuous-deployment",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:01:55.013Z",
+    "last_updated": "2026-11-02T00:36:01.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
