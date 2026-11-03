@@ -115,11 +115,11 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-26T01:49:59Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-03T00:41:57Z",
+                "open_issues": 25,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": [
                   "aws",
                   "deployment",
@@ -347,7 +347,7 @@
                 "id": 142599311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-07T20:50:52Z",
+                "last_commit": "2026-11-02T19:09:08Z",
                 "open_issues": 4,
                 "owner": "turnerlabs",
                 "repo": "fargate-create",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:36:01.243Z",
+    "last_updated": "2026-11-03T02:52:10.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
