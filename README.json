@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "aws-samples",
                 "repo": "ecs-refarch-cloudformation",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -116,10 +116,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-04T00:38:51Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": [
                   "aws",
                   "deployment",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:14:07.498Z",
+    "last_updated": "2026-11-05T01:25:37.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
@@ -925,7 +925,7 @@
       "open_issues": 6,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2901,
+      "stars": 2900,
       "topics": [
         "aws",
         "aws-ecs",
