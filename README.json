@@ -115,7 +115,7 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:41:23Z",
+                "last_commit": "2026-11-07T04:55:10Z",
                 "open_issues": 22,
                 "owner": "kayac",
                 "repo": "ecspresso",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:51:07.368Z",
+    "last_updated": "2026-11-08T00:26:25.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
