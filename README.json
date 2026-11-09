@@ -119,7 +119,7 @@
                 "open_issues": 22,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": [
                   "aws",
                   "deployment",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:26:25.438Z",
+    "last_updated": "2026-11-09T00:45:50.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
