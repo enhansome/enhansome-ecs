@@ -32,7 +32,7 @@ Do you prefer video instead? If so check out [Containers from the Couch](https:/
 
 ### Pick a tool for deploying your application
 
-* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,226 | 🐛 6 | 🌐 Python | 📅 2026-11-03 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
+* [CloudFormation](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/ECS) ⭐ 5,227 | 🐛 6 | 🌐 Python | 📅 2026-11-03 - You can choose to write CloudFormation templates to describe your deployment directly, in which case these sample templates will help. Check out [prebuilt CloudFormation patterns for AWS CloudFormation and Amazon ECS + AWS Fargate](https://containersonaws.com/pattern/?tool=cloudformation)
 * [Troposphere + ECS](https://github.com/cloudtools/troposphere/blob/master/examples/ECSFargate.py) ⭐ 4,940 | 🐛 161 | 🌐 Python | 📅 2026-10-28 - For Python users [Troposphere](https://github.com/cloudtools/troposphere) ⭐ 4,940 | 🐛 161 | 🌐 Python | 📅 2026-10-28 can help create CloudFormation templates. This example shows how to create an ECS deployment using Troposphere
 * [AWS Copilot](https://aws.github.io/copilot-cli/) - The easiest starting experience for launching your local container on Fargate. This commandline tool helps you build and deploy your application, as well as deploy CI/CD pipelines that automatically rebuild and redeploy your application on Git push. It creates infrastructure as code templates for you behind the scenes.
 * [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) - AWS CDK is an SDK that lets developers define and deploy AWS infrastructure using familiar programming languages, often the same language that the application itself is coded in. CDK creates CloudFormation automatically behind the scenes.
@@ -46,9 +46,9 @@ Do you prefer video instead? If so check out [Containers from the Couch](https:/
 
 The following tools may not be as up-to-date or maintained, but are retained here for reference:
 
-* [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,978 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
+* [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,979 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
 * [CloudFormation reference architecture](https://github.com/awslabs/ecs-refarch-cloudformation) ⚠️ Archived - An older CloudFormation reference architecture for ECS
-* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,139 | 🐛 22 | 🌐 Go | 📅 2026-11-07 - Minimalistic: JSON file goes in, service launches
+* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,139 | 🐛 23 | 🌐 Go | 📅 2026-11-07 - Minimalistic: JSON file goes in, service launches
 * [mu](https://github.com/stelligent/mu) ⭐ 967 | 🐛 89 | 🌐 Go | 📅 2020-06-18 - Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.
 * [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 1 | 🌐 Go | 📅 2026-10-26 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
@@ -58,7 +58,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
   * [Scheduled Task (Job)](https://github.com/turnerlabs/terraform-ecs-fargate-scheduled-task) ⚠️ Archived
   * [Background Worker (Service)](https://github.com/turnerlabs/terraform-ecs-fargate-background-worker) ⚠️ Archived
 * [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 5 | 🌐 HTML | 📅 2026-10-21 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
-* [ecsq](https://github.com/mightyguava/ecsq) ⭐ 89 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
+* [ecsq](https://github.com/mightyguava/ecsq) ⭐ 88 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
 * [deplojo](https://github.com/LabD/ecs-deplojo) ⭐ 19 | 🐛 4 | 🌐 Python | 📅 2026-10-27 - Python based deployment tool using ECS
@@ -132,7 +132,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ### Reference Architectures
 
-* [Mythical Misfits](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop) ⭐ 339 | 🐛 28 | 🌐 HTML | 📅 2025-09-12 - Deploy a sample application to serverless AWS Fargate capacity
+* [Mythical Misfits](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop) ⭐ 340 | 🐛 28 | 🌐 HTML | 📅 2025-09-12 - Deploy a sample application to serverless AWS Fargate capacity
 * [Cats n' Dogs](https://github.com/aws-samples/amazon-ecs-catsndogs-workshop) ⭐ 169 | 🐛 14 | 🌐 Shell | 📅 2020-10-18 - A fun workshop that covers service and container-instance auto-scaling, spot-fleet integration, container placement strategies, service discovery, secrets management with AWS Systems Manager Parameter Store, among other things.
 * [Bun JavaScript container that uses AWS SDK to connect to DynamoDB](https://containersonaws.com/pattern/bun-js-aws-sdk-container) - A tiny hit counter application. It demonstratres launching a Bun JavaScript container, with an IAM role that grants it access to use a DynamoDB table as it's state store.
 * [NGINX Reverse Proxy sidecar container on AWS ECS](https://containersonaws.com/pattern/nginx-reverse-proxy-sidecar-ecs-fargate-task) - A common architecture for serving a website or API from a container
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

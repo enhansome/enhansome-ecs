@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5226,
+            "stars": 5227,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -116,7 +116,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-07T04:55:10Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "kayac",
                 "repo": "ecspresso",
                 "stars": 1139,
@@ -400,7 +400,7 @@
                 "open_issues": 2,
                 "owner": "mightyguava",
                 "repo": "ecsq",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -882,7 +882,7 @@
             "open_issues": 28,
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
-            "stars": 339,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:26:25.499Z",
+    "last_updated": "2026-11-11T01:12:07.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
