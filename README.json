@@ -43,7 +43,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4940,
+            "stars": 4939,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -115,8 +115,8 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-12T01:59:58Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-13T00:42:18Z",
+                "open_issues": 23,
                 "owner": "kayac",
                 "repo": "ecspresso",
                 "stars": 1140,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:12:29.279Z",
+    "last_updated": "2026-11-13T01:46:22.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
@@ -925,7 +925,7 @@
       "open_issues": 6,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2901,
+      "stars": 2900,
       "topics": [
         "aws",
         "aws-ecs",
