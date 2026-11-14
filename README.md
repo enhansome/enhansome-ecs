@@ -48,7 +48,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 * [ecs-deploy](https://github.com/silinternational/ecs-deploy) ⭐ 1,979 | 🐛 1 | 🌐 Shell | 📅 2026-07-01 - Simple but powerful tool for initiating automatic blue green deploys on ECS
 * [CloudFormation reference architecture](https://github.com/awslabs/ecs-refarch-cloudformation) ⚠️ Archived - An older CloudFormation reference architecture for ECS
-* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,140 | 🐛 23 | 🌐 Go | 📅 2026-11-13 - Minimalistic: JSON file goes in, service launches
+* [ecspresso](https://github.com/kayac/ecspresso) ⭐ 1,140 | 🐛 24 | 🌐 Go | 📅 2026-11-13 - Minimalistic: JSON file goes in, service launches
 * [mu](https://github.com/stelligent/mu) ⭐ 967 | 🐛 89 | 🌐 Go | 📅 2020-06-18 - Automates everything relating to ECS devops and CI/CD. This framework lets you write a simple metadata file and it constructs all the infrastructure you need so that you can deploy to ECS by simply pushing to your Git repo.
 * [ecsdeploy](https://github.com/in4it/ecs-deploy) ⭐ 259 | 🐛 1 | 🌐 Go | 📅 2026-10-26 - A client and simplified web interface for managing your ECS cluster, rolling out and rolling back application versions
 * [ecsctl](https://github.com/cxmcc/ecsctl) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2021-03-22 - Open source tool similar to Kubernetes `kubectl` for ECS.
@@ -57,7 +57,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
   * [Network Application (NLB)](https://github.com/turnerlabs/terraform-ecs-fargate-nlb) ⚠️ Archived
   * [Scheduled Task (Job)](https://github.com/turnerlabs/terraform-ecs-fargate-scheduled-task) ⚠️ Archived
   * [Background Worker (Service)](https://github.com/turnerlabs/terraform-ecs-fargate-background-worker) ⚠️ Archived
-* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 5 | 🌐 HTML | 📅 2026-10-21 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
+* [deployfish](https://github.com/caltechads/deployfish) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-11-14 - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
 * [ecsq](https://github.com/mightyguava/ecsq) ⭐ 88 | 🐛 2 | 🌐 Go | 📅 2023-03-10 - A developer friendly tool for querying the state of an ECS cluster
 * [broadside](https://github.com/lumoslabs/broadside/) ⭐ 44 | 🐛 5 | 🌐 Ruby | 📅 2021-07-22 - Ruby based command line tool for deploying to ECS
 * [pnzr](https://github.com/jobtalk/pnzr) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2018-09-18 - Go based tool for building and pushing to ECS, also has integraton with AWS KMS for secrets management.
@@ -71,7 +71,7 @@ The following tools may not be as up-to-date or maintained, but are retained her
 * [fargate](http://somanymachines.com/fargate/) - Command line tool for interacting with AWS Fargate. With just a single command you can build, push, and launch your container in Fargate, orchestrated by ECS.
 * [Airship Terraform for ECS](https://github.com/blinkist/terraform-aws-airship-ecs-service)
 * [Cloudonaut CloudFormation templates](https://cloudonaut.io/new-cloudformation-templates-ecs-cluster-service-legacy-vpc-wrapper-automated-tests/)
-* * [empire](https://github.com/remind101/empire) ⭐ 2,676 | 🐛 90 | 🌐 Go | 📅 2023-11-25 - Control layer on top of ECS that provides a Heroku like workflow
+* * [empire](https://github.com/remind101/empire) ⭐ 2,675 | 🐛 90 | 🌐 Go | 📅 2023-11-25 - Control layer on top of ECS that provides a Heroku like workflow
 * [UFO](http://ufoships.com/) - Ruby based tool for building containers and shipping them to ECS
 * [bash deployment script](https://spin.atomicobject.com/2017/06/06/ecs-deployment-script/) by [Justin Kulesza](https://twitter.com/JustinKulesza)
 * [convox](https://convox.com/) - Easily build, deploy and scale applications on ECS
@@ -177,4 +177,4 @@ The following tools may not be as up-to-date or maintained, but are retained her
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

@@ -115,8 +115,8 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:42:18Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-13T15:48:04Z",
+                "open_issues": 24,
                 "owner": "kayac",
                 "repo": "ecspresso",
                 "stars": 1140,
@@ -375,8 +375,8 @@
                 "id": 98580356,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T22:27:32Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-14T00:52:11Z",
+                "open_issues": 3,
                 "owner": "caltechads",
                 "repo": "deployfish",
                 "stars": 91,
@@ -625,7 +625,7 @@
                     "open_issues": 90,
                     "owner": "remind101",
                     "repo": "empire",
-                    "stars": 2676,
+                    "stars": 2675,
                     "topics": [
                       "aws",
                       "docker",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:46:22.776Z",
+    "last_updated": "2026-11-14T01:24:20.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
