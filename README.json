@@ -115,11 +115,11 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T15:48:04Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-15T00:45:36Z",
+                "open_issues": 25,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": [
                   "aws",
                   "deployment",
@@ -727,7 +727,7 @@
                 "open_issues": 13,
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
-                "stars": 852,
+                "stars": 851,
                 "topics": [
                   "aws",
                   "continuous-deployment",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:24:20.450Z",
+    "last_updated": "2026-11-15T00:58:27.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
@@ -925,7 +925,7 @@
       "open_issues": 6,
       "owner": "nathanpeck",
       "repo": "awesome-ecs",
-      "stars": 2900,
+      "stars": 2901,
       "topics": [
         "aws",
         "aws-ecs",
