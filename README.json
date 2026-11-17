@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1980,
+                "stars": 1979,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "aws-samples",
                 "repo": "ecs-refarch-cloudformation",
-                "stars": 1692,
+                "stars": 1693,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -115,11 +115,11 @@
                 "id": 109662309,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-15T00:45:36Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-17T00:41:45Z",
+                "open_issues": 29,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1141,
+                "stars": 1143,
                 "topics": [
                   "aws",
                   "deployment",
@@ -375,7 +375,7 @@
                 "id": 98580356,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T00:52:11Z",
+                "last_commit": "2026-11-16T20:29:04Z",
                 "open_issues": 3,
                 "owner": "caltechads",
                 "repo": "deployfish",
@@ -625,7 +625,7 @@
                     "open_issues": 90,
                     "owner": "remind101",
                     "repo": "empire",
-                    "stars": 2674,
+                    "stars": 2675,
                     "topics": [
                       "aws",
                       "docker",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:56:11.854Z",
+    "last_updated": "2026-11-17T03:42:45.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
