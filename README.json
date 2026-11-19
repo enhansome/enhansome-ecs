@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1979,
+                "stars": 1978,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -119,7 +119,7 @@
                 "open_issues": 28,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1143,
+                "stars": 1142,
                 "topics": [
                   "aws",
                   "deployment",
@@ -375,7 +375,7 @@
                 "id": 98580356,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T20:29:04Z",
+                "last_commit": "2026-11-18T21:00:59Z",
                 "open_issues": 3,
                 "owner": "caltechads",
                 "repo": "deployfish",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:50:31.542Z",
+    "last_updated": "2026-11-19T02:29:01.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
