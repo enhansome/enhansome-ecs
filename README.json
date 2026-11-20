@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5227,
+            "stars": 5225,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -43,7 +43,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4940,
+            "stars": 4939,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -72,7 +72,7 @@
                 "open_issues": 1,
                 "owner": "sil-org",
                 "repo": "ecs-deploy",
-                "stars": 1978,
+                "stars": 1977,
                 "topics": [
                   "aws-ecs",
                   "continuous-deployment",
@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "aws-samples",
                 "repo": "ecs-refarch-cloudformation",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:41.486Z"
@@ -146,7 +146,7 @@
                 "open_issues": 89,
                 "owner": "stelligent",
                 "repo": "mu",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "cloudformation",
                   "codepipeline",
@@ -625,7 +625,7 @@
                     "open_issues": 90,
                     "owner": "remind101",
                     "repo": "empire",
-                    "stars": 2675,
+                    "stars": 2674,
                     "topics": [
                       "aws",
                       "docker",
@@ -727,7 +727,7 @@
                 "open_issues": 13,
                 "owner": "awslabs",
                 "repo": "ecs-refarch-continuous-deployment",
-                "stars": 851,
+                "stars": 850,
                 "topics": [
                   "aws",
                   "continuous-deployment",
@@ -882,7 +882,7 @@
             "open_issues": 28,
             "owner": "aws-samples",
             "repo": "amazon-ecs-mythicalmysfits-workshop",
-            "stars": 340,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:41.486Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:29:01.738Z",
+    "last_updated": "2026-11-20T02:13:45.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
