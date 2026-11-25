@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
-            "stars": 5223,
+            "stars": 5222,
             "topics": [
               "aws-cloudformation",
               "cloudformation-template"
@@ -146,7 +146,7 @@
                 "open_issues": 89,
                 "owner": "stelligent",
                 "repo": "mu",
-                "stars": 966,
+                "stars": 965,
                 "topics": [
                   "cloudformation",
                   "codepipeline",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:16:05.444Z",
+    "last_updated": "2026-11-25T04:05:14.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
