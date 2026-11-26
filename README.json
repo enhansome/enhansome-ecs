@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:41:51Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "aws-cloudformation",
             "repo": "aws-cloudformation-templates",
             "stars": 5222,
@@ -43,7 +43,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4939,
+            "stars": 4938,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:05:14.313Z",
+    "last_updated": "2026-11-26T03:28:45.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
