@@ -43,7 +43,7 @@
             "open_issues": 161,
             "owner": "cloudtools",
             "repo": "troposphere",
-            "stars": 4938,
+            "stars": 4937,
             "topics": [
               "aws-cloudformation",
               "cloudformation",
@@ -119,7 +119,7 @@
                 "open_issues": 29,
                 "owner": "kayac",
                 "repo": "ecspresso",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": [
                   "aws",
                   "deployment",
@@ -264,7 +264,7 @@
                     "open_issues": 4,
                     "owner": "turnerlabs",
                     "repo": "terraform-ecs-fargate-nlb",
-                    "stars": 64,
+                    "stars": 63,
                     "topics": [
                       "aws",
                       "containers",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:36:00.192Z",
+    "last_updated": "2026-11-28T03:13:24.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ECS guides, development tools, and resources",
